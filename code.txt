@@ -1,18 +1,1 @@
-some really great code
-not so good as it could be but OK
-not so good as it could be but OK
-not so good as it could be but OK
-not so good as it could be but OK
-some configuration reading
-one more nice code block
-one more nice code block
-some experimental code
-<<<<<<< HEAD
-another test code
-=======
-testing some feature
->>>>>>> test_feature
-adding new cool feature
-adding new cool feature
-fixing bug in previous feature
-fixing bug in previous bugfix
+example of some really good code
